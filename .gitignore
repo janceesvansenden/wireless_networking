@@ -26,3 +26,7 @@
 *.exe
 *.out
 *.app
+
+# Original ns-3 files
+scratch-simulator.cc
+/subdir/*
